@@ -1,5 +1,5 @@
 ## Python Insights - Análise de Cancelamento de Clientes (Churn)
-Este projeto faz parte de um estudo de Ciência de Dados focado em entender os motivos pelos quais os clientes de uma empresa (base de 800 mil usuários) estão cancelando seus serviços e propor estratégias para reduzir essa taxa.
+Este projeto faz parte de um estudo de Ciência de Dados focado em entender os motivos pelos quais os clientes de uma empresa estão cancelando seus serviços e propor estratégias para reduzir essa taxa.
 
 ## 📋 Contexto
 A empresa identificou que a maioria de sua base de clientes está inativa. O objetivo desta análise é identificar padrões nos dados que indiquem um alto risco de cancelamento (Churn) e sugerir ações práticas.
@@ -33,7 +33,7 @@ Ligações no Call Center: Clientes que ligam mais de 4 vezes para o suporte tê
 Dias de Atraso: Clientes com mais de 20 dias de atraso no pagamento são considerados de alto risco.
 
 ## 📈 Resultados e Conclusões
-Ao filtrar e tratar as causas raiz identificadas, o projeto demonstra como a taxa de cancelamento pode ser drasticamente reduzida:
+Ao filtrar e tratar as causas raiz identificadas, o projeto demonstra como a taxa de cancelamento pode ser drasticamente reduzida de 46% para 18% ao realizar algumas ações:
 
 Ação 1: Incentivar a migração de contratos mensais para anuais ou trimestrais.
 
